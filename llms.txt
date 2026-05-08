@@ -1,0 +1,9 @@
+# Midtown Modern
+
+> Midtown Modern — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/midtownmodern/
+
+## Pages
+
+- [Midtown Modern](https://singaporenewproperty.github.io/midtownmodern/): Midtown Modern property information.
